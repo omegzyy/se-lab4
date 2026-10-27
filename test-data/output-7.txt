@@ -1,0 +1,2 @@
+SUCCESS  # ship created
+FAIL     # no torpedoes

@@ -1,0 +1,2 @@
+SUCCESS  # ship created
+FAIL     # if secondary was tried this would be success

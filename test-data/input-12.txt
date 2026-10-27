@@ -1,0 +1,3 @@
+# test 12: bad arguments when creating the ship
+GT4500,10           # not enough numbers
+GT4500,abc,0,10,0   # not a number

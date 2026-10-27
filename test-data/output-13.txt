@@ -1,0 +1,3 @@
+SUCCESS  # ship created
+usage: TORPEDO,<SINGLE|ALL>
+Unknown firing mode: 'BOTH'

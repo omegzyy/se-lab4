@@ -1,0 +1,4 @@
+# test 15: exit stops everything after it
+GT4500,10,0,10,0
+EXIT
+TORPEDO,SINGLE  # should never run

@@ -1,0 +1,4 @@
+# test 16: help
+# no output file on purpose, the command list comes out in a random order every run
+# so its inconclusive but still counts for coverage
+HELP

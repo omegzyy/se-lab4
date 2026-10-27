@@ -1,0 +1,4 @@
+# test 10: all with only the secondary loaded
+# primary empty, 1 torpedo in secondary
+GT4500,0,0,1,0
+TORPEDO,ALL  # only secondary can fire

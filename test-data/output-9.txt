@@ -1,0 +1,3 @@
+SUCCESS  # ship created
+SUCCESS  # primary fired
+FAIL     # both empty

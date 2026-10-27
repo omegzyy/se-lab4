@@ -1,0 +1,5 @@
+# test 9: primary fired last and now both stores are empty
+# 1 torpedo in primary, secondary empty
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary, now everything is empty
+TORPEDO,SINGLE  # nothing left

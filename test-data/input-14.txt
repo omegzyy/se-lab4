@@ -1,0 +1,4 @@
+# test 14: unknown command and an empty line
+FOO  # not a command
+
+# ^ empty line should just be skipped

@@ -1,0 +1,5 @@
+# test 8: single fire alternates, second fire goes to the secondary
+# primary never fails, secondary always fails
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary, should fail

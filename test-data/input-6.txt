@@ -1,0 +1,5 @@
+# test 6: all fires both stores
+# 1 torpedo in each store, never fails
+GT4500,1,0,1,0
+TORPEDO,ALL     # fires both
+TORPEDO,SINGLE  # both should be empty now

@@ -1,0 +1,4 @@
+# test 4: failed primary store, so the other store is not tried
+# primary always fails, secondary never fails
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # primary fails, should not try secondary

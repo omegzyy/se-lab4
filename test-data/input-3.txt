@@ -1,0 +1,4 @@
+# test 3: primary is empty on the first fire
+# primary is empty
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # primary empty so secondary

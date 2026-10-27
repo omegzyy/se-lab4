@@ -1,0 +1,4 @@
+# test 13: bad arguments when firing
+GT4500,10,0,10,0
+TORPEDO        # no firing mode
+TORPEDO,BOTH   # not a real firing mode
